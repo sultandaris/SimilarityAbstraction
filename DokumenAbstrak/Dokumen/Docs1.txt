@@ -1,0 +1,27 @@
+Penyakit  jantung  merupakan  penyebab  kematian  nomor  satu  di  dunia. 
+Telah  banyak  dilakukan  penelitian  terkait  pemanfaatan  machine  learning  untuk 
+memprediksi  penyakit  jantung.  Machine  Learning  adalah  bagian  dari  penelitian 
+tentang kecerdasan buatan, mencari untuk memberikan pengetahuan kepada 
+komputer  melalui  data,  pengamatan  dan  berinteraksi  dengan  dunia.  Terdapat 
+berbagai macam metode dalam pemanfaatan machine learning diantaranya adalah 
+Naïve Bayes dan Decision Tree yang akan digunakan pada penelitian ini. 
+Penelitian  ini  bertujuan  untuk  meningkatkan  akurasi  dalam  studi  kasus  prediksi 
+penyakit  jantung  dari  penelitian  sebelumnya  dengan  menambahkan  jumlah  data 
+dan membuktikan metode mana yang memberikan akurasi lebih baik antara Naïve 
+Bayes  atau  Decision  Tree.  Data  yang  digunakan  merupakan  data  sekunder  yang 
+didapat  dari  website  Kaggle,  berisi  14  subset  atribut,  yang  terdiri  dari  13  atribut 
+sebagai predictor dan satu atribut sebagai target dengan dua kelas dengan jumlah 
+1328  data.  Data  kemudian  akan  diklasifikasian  untuk  mencari nilai  akurasi, 
+sensitivitas,  dan  spesifisitas  yang  tertinggi  dari  kedua  metode.  Evaluasi  sistem 
+dilakukan dengan menggunakan  confusion matrix ̧  K Fold Cross Validation, dan 
+Kurva  ROC  dengan  menghitung  nilai  Area  Under  Curve  (AUC).  Dari  hasil 
+evaluasi sistem diperoleh nilai tertinggi pada metode Decision Tree pada 
+pengujian kurva ROC dan confusion matrix dengan nilai fold 10, dengan rata-rata 
+nilai  akurasi  sebesar  97.81%,  sensitivitas  sebesar  97.12%,  spesifisitas  sebesar 
+98.58%,  dan  AUC  sebesar  0.979.  Sedangkan  metode  Naïve  Bayes  memperoleh 
+hasil paling tinggi pada pengujian kurva ROC dan  confusion matrix dengan nilai 
+fold 5 dengan rata-rata nilai akurasi sebesar 83.03%, sensitivitas sebesar 84.70%, 
+spesifisitas sebesar 81.68%, dan AUC sebesar 0.832. 
+
+Kata Kunci : Naïve Bayes, Decision Tree, Heart Disease Classification, 
+confusion matrix, Kurva ROC.

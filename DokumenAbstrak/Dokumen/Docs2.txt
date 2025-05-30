@@ -1,0 +1,16 @@
+Perkembangan industri video games dewasa ini semakin pesat dan mudah diakses, 
+sehingga semakin banyak masyarakat yang mengenal video games terutama 
+berjenis Battle Royale yang sedang populer dewasa ini. Banyak perdebatan 
+mengenai  dampak  dari  jenis  video  game  tersebut,  terlebih  kasus  kekerasan  dan 
+penembakan yang terjadi belakangan ini banyak dihubungkan dengan dampak yang 
+ditimbulkan dari video games. Penelitian ini bertujuan untuk menganalisa sentimen 
+pengguna Twitter mengenai dampak dari video game berjenis battle royale 
+menggunakan  metode  Support  Vector  Machine  (SVM).  Data  diambil  dari  tweet 
+pengguna Twitter mengenai dampak video games berjumlah 513 tweet  berbahasa 
+Inggris,  kemudian  sentimen  akan  dikategorikan  menjadi  sentimen  positif  dan 
+negatif. Berdasarkan hasil pengujian, akurasi terbesar didapat dengan 
+menggunakan SVM Kernel Polynomial sebesar 74,5% pada skenario perbandingan 
+80:20 data training dan data testing. Hasil sentimen yang didapatkan yaitu 65,8% 
+bersentimen positif, sedangkan 34,2% bersentimen negatif. 
+ 
+Kata Kunci: Analisis sentimen, Twitter, Video Games, Battle Royale, Support Vector Machine (SVM) 

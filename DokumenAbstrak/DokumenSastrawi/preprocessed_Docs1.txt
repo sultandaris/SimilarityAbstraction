@@ -1,0 +1,28 @@
+sakit jantung rupa sebab mati nomor dunia
+telah banyak laku teliti kait manfaat machine
+learning prediksi sakit jantung machine learning bagi
+teliti tentang cerdas buat cari beri tahu
+kepada komputer lalu data amat interaksi dunia
+dapat bagai macam metode manfaat machine learning
+antara na ve bayes decision tree guna teliti
+teliti tuju tingkat akurasi studi kasus prediksi
+sakit jantung teliti belum tambah jumlah data
+bukti metode mana beri akurasi lebih baik
+antara na ve bayes decision tree data guna
+rupa data sekunder dapat website kaggle isi
+subset atribut diri atribut bagai predictor atribut
+bagai target kelas jumlah 1328 data data
+kemudian klasifikasi cari nilai akurasi sensitivitas spesifisitas
+tinggi dua metode evaluasi sistem laku guna
+confusion matrix fold cross validation kurva roc
+hitung nilai area under curve auc hasil
+evaluasi sistem oleh nilai tinggi metode decision
+tree uji kurva roc confusion matrix nilai
+fold rata rata nilai akurasi besar sensitivitas
+besar spesifisitas besar auc besar 979 sedang
+metode na ve bayes oleh hasil paling tinggi
+uji kurva roc confusion matrix nilai fold
+rata rata nilai akurasi besar sensitivitas besar
+spesifisitas besar auc besar 832 kata kunci
+na ve bayes decision tree heart disease classification
+confusion matrix kurva roc

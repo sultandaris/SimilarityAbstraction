@@ -1,0 +1,18 @@
+perkembangan industri video game dewasa semakin pesat
+mudah diaks sehingga semakin banyak masyarakat mengen
+video game terutama berjeni battl royal sedang
+popul dewasa banyak perdebatan mengenai dampak jeni
+video game tersebut terlebih kasu kekerasan penembakan
+terjadi belakangan banyak dihubungkan dampak ditimbulkan video
+game penelitian bertujuan menganalisa sentimen pengguna twitter
+mengenai dampak video game berjeni battl royal
+menggunakan metod support vector machin svm data
+diambil tweet pengguna twitter mengenai dampak video
+game berjumlah 513 tweet berbahasa inggri kemudian
+sentimen dikategorikan menjadi sentimen positif negatif berdasarkan
+hasil pengujian akurasi terbesar didapat menggunakan svm
+kernel polynomi sebesar skenario perbandingan data train
+data test hasil sentimen didapatkan yaitu bersentimen
+positif sedangkan bersentimen negatif kata kunci analisi
+sentimen twitter video game battl royal support
+vector machin svm

@@ -1,0 +1,18 @@
+kembang industri video games dewasa makin pesat
+mudah akses sehingga makin banyak masyarakat kenal
+video games utama jenis battle royale sedang
+populer dewasa banyak debat kena dampak jenis
+video game sebut lebih kasus keras tembak
+jadi belakang banyak hubung dampak timbul video
+games teliti tuju menganalisa sentimen guna twitter
+kena dampak video game jenis battle royale
+guna metode support vector machine svm data
+ambil tweet guna twitter kena dampak video
+games jumlah 513 tweet bahasa inggris kemudian
+sentimen kategori jadi sentimen positif negatif dasar
+hasil uji akurasi besar dapat guna svm
+kernel polynomial besar skenario banding data training
+data testing hasil sentimen dapat yaitu sentimen
+positif sedang sentimen negatif kata kunci analisis
+sentimen twitter video games battle royale support
+vector machine svm
