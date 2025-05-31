@@ -5,7 +5,6 @@ import string
 from Sastrawi.Stemmer.StemmerFactory import StemmerFactory
 
 print("Kelompok UAS TKI")
-
 folder_path = r"C:\Users\Sultan Daris\Downloads\UAS TKI Projek\DokumenAbstrak\Dokumen" 
 
 for filename in os.listdir(folder_path):
